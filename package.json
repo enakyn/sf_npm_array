@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Volobuev Arseniy",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "array-tools": "^2.0.9"
+  }
 }
