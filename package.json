@@ -1,0 +1,14 @@
+{
+  "name": "sf_npm_array",
+  "version": "1.0.0",
+  "description": "work with array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Volobuev Arseniy",
+  "license": "ISC",
+  "dependencies": {
+    "array-tools": "^2.0.9"
+  }
+}
