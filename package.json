@@ -9,6 +9,7 @@
   "author": "Volobuev Arseniy",
   "license": "ISC",
   "dependencies": {
-    "array-tools": "^2.0.9"
+    "array-tools": "^2.0.9",
+    "readline": "^1.3.0"
   }
 }
